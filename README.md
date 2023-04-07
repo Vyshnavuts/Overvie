@@ -51,8 +51,7 @@ Also, I play a role as a Senior IT Talent acquisition specialist in Aster Digita
 </p>
 LinkedIn - https://www.linkedin.com/in/vyshnavu-t-sudheesh-0989b1172/
 GitHub - https://github.com/Vyshnavuts
-alt="TROPHY" />
-    </a>
+   </a>
 </div>
 </p>
 
